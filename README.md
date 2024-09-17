@@ -7,6 +7,8 @@
 * プログラム内で使用している各変数の説明を記載しています。
 
 ## 検証環境
+gfortran 12.2
+
 |PC|OS|CPU|
 |--|--|---|
 |MacBook Air 2020|macOS Sonoma 14.5|M1|
